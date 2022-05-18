@@ -25,3 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm run test`
 
 Launches the test runner in the interactive watch mode.
+
+### Github page 
+[https://amarkantku.github.io/spenmo/](https://amarkantku.github.io/spenmo/) to view 
