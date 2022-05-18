@@ -1,0 +1,820 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> component should render correctly 1`] = `
+<div>
+  <div
+    class="sc-dIouRR fEGhhX"
+    data-testid="app-container"
+  >
+    <div
+      class="sc-hHLeRK kkoxOi"
+      data-testid="card-title-row"
+    >
+      <div
+        class="sc-dmRaPn fZOAnF"
+        data-testid="card-title"
+      >
+        Cards
+      </div>
+    </div>
+    <div
+      class="sc-hHLeRK kkoxOi"
+      data-testid="carousel-row"
+    >
+      <div
+        class="sc-bBrHrO iWwBWh"
+        data-testid="add-new-card-container"
+      >
+        <div
+          class="sc-fLlhyt"
+          data-testid="add-new-card"
+        >
+          <button
+            class="sc-ftvSup gIBrTx"
+            data-testid="add-new-button"
+            height="50"
+            shape="rounded"
+            width="50"
+          >
+            <svg
+              height="25"
+              viewBox="0 0 50 50"
+              width="25"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <rect
+                fill="none"
+                height="50"
+                width="50"
+              />
+              <line
+                fill="none"
+                stroke="#ffffff"
+                stroke-width="4"
+                x1="9"
+                x2="41"
+                y1="25"
+                y2="25"
+              />
+              <line
+                fill="none"
+                stroke="#ffffff"
+                stroke-width="4"
+                x1="25"
+                x2="25"
+                y1="9"
+                y2="41"
+              />
+            </svg>
+          </button>
+          <div
+            class="sc-kgflAQ"
+            data-testid="add-new-label"
+          >
+            Add new card
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-bczRLJ doSesw"
+        data-testid="carousel-container"
+      >
+        <div
+          class="sc-gsnTZi bBHqLX"
+          data-testid="carousel-wrapper"
+        >
+          <div
+            class="sc-hKMtZM kTgYlF"
+            data-testid="carousel-content-wrapper"
+          >
+            <div
+              class="sc-dkzDqf eXifXS"
+              data-testid="carousel-prev-arrow-section"
+            >
+              <button
+                class="sc-jSMfEi gzTrNI"
+                data-testid="previous-arrow"
+              >
+                <svg
+                  viewBox="0 0 512 512"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M217.9 256L345 129c9.4-9.4 9.4-24.6 0-33.9-9.4-9.4-24.6-9.3-34 0L167 239c-9.1 9.1-9.3 23.7-.7 33.1L310.9 417c4.7 4.7 10.9 7 17 7s12.3-2.3 17-7c9.4-9.4 9.4-24.6 0-33.9L217.9 256z"
+                    fill="#6c3a1f"
+                    stroke="#ffffff"
+                  />
+                </svg>
+              </button>
+            </div>
+            <div
+              class="sc-dkzDqf eXifXS"
+              data-testid="carousel-main-section"
+            >
+              <div
+                class="sc-eCYdqJ ylJju show-4"
+                data-testid="carousel-content"
+                size="4"
+                style="transform: translateX(-0%); transition: all 0.5s ease-out;"
+              >
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(38, 91, 150); border: 1px solid #265b96;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Amarkant Kumar
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 3456
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2026
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(46, 64, 83); border: 1px solid #2e4053;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Ramesh K. Rao
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 7245
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2032
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(33, 111, 198); border: 1px solid #216fc6;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Prashant Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 1245
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2032
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(38, 150, 96); border: 1px solid #269660;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Kumar S. Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6245
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2027
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(33, 111, 198); border: 1px solid #216fc6;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Raja S. Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6845
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2026
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(33, 111, 198); border: 1px solid #216fc6;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Puram Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6815
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2027
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(38, 91, 150); border: 1px solid #265b96;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Suman Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6815
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2027
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(33, 111, 198); border: 1px solid #216fc6;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Arkira Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6815
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2027
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(38, 150, 96); border: 1px solid #269660;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Raman Reddy
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6815
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2027
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="sc-gKXOVf jjflHo"
+                  data-testid="card-info-container"
+                >
+                  <div
+                    class="sc-iBkjds joCest"
+                    style="background: rgb(204, 204, 204); border: 1px solid #cccccc;"
+                  >
+                    <div>
+                      <div
+                        class="companyIcon"
+                      >
+                        <img
+                          alt="icon"
+                          src="logo.svg"
+                        />
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        Rohit Raj
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        **** **** **** 6015
+                      </div>
+                      <div
+                        class="info"
+                      >
+                        <span>
+                          EXPIRY
+                        </span>
+                        <span>
+                          12
+                          /
+                          2026
+                        </span>
+                      </div>
+                    </div>
+                    <div
+                      class="icon"
+                    >
+                      <svg
+                        height="48"
+                        viewBox="0 0 48 48"
+                        width="48"
+                        x="0px"
+                        xmlns="http://www.w3.org/2000/svg"
+                        y="0px"
+                      >
+                        <path
+                          d="M32 10A14 14 0 1 0 32 38A14 14 0 1 0 32 10Z"
+                          fill="#ff9800"
+                        />
+                        <path
+                          d="M16 10A14 14 0 1 0 16 38A14 14 0 1 0 16 10Z"
+                          fill="#d50000"
+                        />
+                        <path
+                          d="M18,24c0,4.755,2.376,8.95,6,11.48c3.624-2.53,6-6.725,6-11.48s-2.376-8.95-6-11.48 C20.376,15.05,18,19.245,18,24z"
+                          fill="#ff3d00"
+                        />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-dkzDqf eXifXS"
+              data-testid="carousel-next-arrow-section"
+            >
+              <button
+                class="sc-jSMfEi gzTrNI"
+                data-testid="next-arrow"
+              >
+                <svg
+                  viewBox="0 0 512 512"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M294.1 256L167 129c-9.4-9.4-9.4-24.6 0-33.9s24.6-9.3 34 0L345 239c9.1 9.1 9.3 23.7.7 33.1L201.1 417c-4.7 4.7-10.9 7-17 7s-12.3-2.3-17-7c-9.4-9.4-9.4-24.6 0-33.9l127-127.1z"
+                    fill="#6c3a1f"
+                    stroke="#ffffff"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

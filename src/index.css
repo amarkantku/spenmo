@@ -1,13 +1,10 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+/* 
+Build a react app - which has the UI as shown in the attached image. Pls don't forget to add unit test cases.
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+Show Add New Card button and a Carousel of cards
+Add new card button - opens a simple dialog to get Card holder name, color, spend limit
+Click existing card - open details dialog with card number, Name, expiry.
+
+The data for the carousell card list is this  - you can hardcode in your react app.
+
+cards = [ {"card_name":"Superhuman", "card_last_four":"5139", "expiry" : "03/20206", "color" : "0xff0000" }] */

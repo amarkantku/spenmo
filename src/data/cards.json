@@ -1,0 +1,92 @@
+[
+    {
+        "cardHolderName": "Amarkant Kumar",
+        "cardLastFourDigit": "3456",
+        "expiry": {
+            "month": 12,
+            "year": 2026
+        },
+        "color": "#265B96"
+    },
+    {
+        "cardHolderName": "Ramesh K. Rao",
+        "cardLastFourDigit": "7245",
+        "expiry": {
+            "month": 12,
+            "year": 2032
+        },
+        "color": "#2E4053"
+    },
+    {
+        "cardHolderName": "Prashant Reddy",
+        "cardLastFourDigit": "1245",
+        "expiry": {
+            "month": 12,
+            "year": 2032
+        },
+        "color": "#216FC6"
+    },
+    {
+        "cardHolderName": "Kumar S. Reddy",
+        "cardLastFourDigit": "6245",
+        "expiry": {
+            "month": 12,
+            "year": 2027
+        },
+        "color": "#269660"
+    },
+    {
+        "cardHolderName": "Raja S. Reddy",
+        "cardLastFourDigit": "6845",
+        "expiry": {
+            "month": 12,
+            "year": 2026
+        },
+        "color": "#216FC6"
+    },
+    {
+        "cardHolderName": "Puram Reddy",
+        "cardLastFourDigit": "6815",
+        "expiry": {
+            "month": 12,
+            "year": 2027
+        },
+        "color": "#216FC6"
+    },
+    {
+        "cardHolderName": "Suman Reddy",
+        "cardLastFourDigit": "6815",
+        "expiry": {
+            "month": 12,
+            "year": 2027
+        },
+        "color": "#265B96"
+    },
+    {
+        "cardHolderName": "Arkira Reddy",
+        "cardLastFourDigit": "6815",
+        "expiry": {
+            "month": 12,
+            "year": 2027
+        },
+        "color": "#216FC6"
+    },
+    {
+        "cardHolderName": "Raman Reddy",
+        "cardLastFourDigit": "6815",
+        "expiry": {
+            "month": 12,
+            "year": 2027
+        },
+        "color": "#269660"
+    },
+    {
+        "cardHolderName": "Rohit Raj",
+        "cardLastFourDigit": "6015",
+        "expiry": {
+            "month": 12,
+            "year": 2026
+        },
+        "color": "#cccccc"
+    }
+]
