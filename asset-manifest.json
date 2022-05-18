@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/spenmo/static/js/main.b5f8710f.js",
+    "static/js/787.b0ea0d52.chunk.js": "/spenmo/static/js/787.b0ea0d52.chunk.js",
+    "index.html": "/spenmo/index.html",
+    "main.b5f8710f.js.map": "/spenmo/static/js/main.b5f8710f.js.map",
+    "787.b0ea0d52.chunk.js.map": "/spenmo/static/js/787.b0ea0d52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b5f8710f.js"
+  ]
+}
